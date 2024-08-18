@@ -15,5 +15,5 @@ Issues :
 
 How to find tests :
 
-Go-to tests directory
+Go-to tests directory - test.spec.ts
 
